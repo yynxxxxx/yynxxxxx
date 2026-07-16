@@ -1,0 +1,16 @@
+<svg width="470" height="190" viewBox="0 0 470 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Codex-5.5-codex-instruct-5.5</title>
+  <desc id="desc">Codex instruction and prompt workflow project with 1.9k stars.</desc>
+  <rect x="1" y="1" width="468" height="188" rx="20" fill="#FFFFFF" stroke="#D8DEE9"/>
+  <rect x="22" y="22" width="52" height="52" rx="16" fill="#FFF7ED"/>
+  <path d="M38 49C38 40.716 44.716 34 53 34H58C60.761 34 63 36.239 63 39V44C63 52.284 56.284 59 48 59H43C40.239 59 38 56.761 38 54V49Z" fill="#F59E0B"/>
+  <text x="92" y="48" fill="#0F172A" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="21" font-weight="760">Codex-5.5 Instruct</text>
+  <text x="92" y="76" fill="#64748B" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="14">Instruction and prompt workflow project.</text>
+  <text x="24" y="122" fill="#0F172A" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="34" font-weight="780">1.9k</text>
+  <text x="98" y="122" fill="#64748B" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650">stars</text>
+  <rect x="24" y="144" width="72" height="26" rx="13" fill="#F8FAFC" stroke="#E2E8F0"/>
+  <text x="41" y="162" fill="#475569" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12" font-weight="650">Python</text>
+  <rect x="104" y="144" width="82" height="26" rx="13" fill="#F8FAFC" stroke="#E2E8F0"/>
+  <text x="121" y="162" fill="#475569" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12" font-weight="650">Prompts</text>
+  <path d="M410 146L432 124M432 124H414M432 124V142" stroke="#94A3B8" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
