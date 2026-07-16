@@ -16,12 +16,6 @@
   </a>
 </p>
 
-<p>
-  <a href="http://t6s66.cn:8080/pr?username=yynxxxxx">
-    <img src="http://t6s66.cn:8080/card?username=yynxxxxx&top=5&style=default" alt="yynxxxxx's Pull Requests" />
-  </a>
-</p>
-
 </div>
 
 ---
