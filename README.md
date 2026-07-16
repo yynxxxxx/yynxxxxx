@@ -34,20 +34,39 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yynxxxxx&repo=Codex-5.5-codex-instruct-5.5&theme=transparent&hide_border=true" alt="Codex-5.5-codex-instruct-5.5 repository card" />
-  </a>
-  <a href="https://github.com/yynxxxxx/Codex-X">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yynxxxxx&repo=Codex-X&theme=transparent&hide_border=true" alt="Codex-X repository card" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5">Codex-5.5-codex-instruct-5.5</a>
+      </h3>
+      <p>Codex instruction and prompt workflow project.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/yynxxxxx/Codex-5.5-codex-instruct-5.5?style=flat-square&label=stars&color=f59e0b" alt="stars" />
+        <img src="https://img.shields.io/github/forks/yynxxxxx/Codex-5.5-codex-instruct-5.5?style=flat-square&label=forks&color=64748b" alt="forks" />
+        <img src="https://img.shields.io/github/languages/top/yynxxxxx/Codex-5.5-codex-instruct-5.5?style=flat-square&color=3776ab" alt="top language" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/yynxxxxx/Codex-X">Codex-X</a>
+      </h3>
+      <p>Visual desktop manager for Codex prompts, Providers, sessions, Skills and MCP.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/yynxxxxx/Codex-X?style=flat-square&label=stars&color=2563eb" alt="stars" />
+        <img src="https://img.shields.io/github/forks/yynxxxxx/Codex-X?style=flat-square&label=forks&color=64748b" alt="forks" />
+        <img src="https://img.shields.io/github/v/release/yynxxxxx/Codex-X?style=flat-square&label=release&color=16a34a" alt="release" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-## 📊 GitHub Stats
+## 📊 Activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yynxxxxx&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yynxxxxx&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+<p>
+  <img src="https://img.shields.io/github/followers/yynxxxxx?style=flat-square&label=followers&color=0ea5e9" alt="followers" />
+  <img src="https://img.shields.io/github/stars/yynxxxxx/Codex-5.5-codex-instruct-5.5?style=flat-square&label=Codex--5.5%20stars&color=f59e0b" alt="Codex-5.5 stars" />
+  <img src="https://img.shields.io/github/stars/yynxxxxx/Codex-X?style=flat-square&label=Codex--X%20stars&color=2563eb" alt="Codex-X stars" />
 </p>
 
 ## 🔗 Links
