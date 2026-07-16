@@ -2,11 +2,14 @@
 
 # Hi there 👋
 
-### I build tools for Codex, AI agents, prompt workflows, and developer productivity.
+### Codex tooling · Prompt engineering · AI agent workflows
 
 <p>
+  <a href="https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5">
+    <img src="https://img.shields.io/github/stars/yynxxxxx/Codex-5.5-codex-instruct-5.5?style=for-the-badge&label=Codex--5.5&color=f59e0b" alt="Codex-5.5 stars" />
+  </a>
   <a href="https://github.com/yynxxxxx/Codex-X">
-    <img src="https://img.shields.io/badge/Codex--X-Desktop%20Manager-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Codex-X" />
+    <img src="https://img.shields.io/github/stars/yynxxxxx/Codex-X?style=for-the-badge&label=Codex--X&color=2563eb" alt="Codex-X stars" />
   </a>
   <a href="https://github.com/yynxxxxx/Codex-X/releases">
     <img src="https://img.shields.io/github/v/release/yynxxxxx/Codex-X?style=for-the-badge&label=Latest%20Release&color=16a34a" alt="Codex-X release" />
@@ -25,13 +28,16 @@
 
 ## 🧩 What I’m building
 
+- **Codex-5.5-codex-instruct-5.5**: Codex instruction and prompt workflow project with 1.9k+ stars.
 - **Codex-X**: a visual desktop manager for Codex prompts, Providers, sessions, Skills and MCP.
-- Prompt injection workflows with Markdown templates, categories, custom imports and one-click switching.
-- Practical tooling around AI agents, reverse engineering workflows, automation and local developer experience.
+- Practical tooling around AI agents, prompt injection workflows, automation and local developer experience.
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 <p align="center">
+  <a href="https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yynxxxxx&repo=Codex-5.5-codex-instruct-5.5&theme=transparent&hide_border=true" alt="Codex-5.5-codex-instruct-5.5 repository card" />
+  </a>
   <a href="https://github.com/yynxxxxx/Codex-X">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yynxxxxx&repo=Codex-X&theme=transparent&hide_border=true" alt="Codex-X repository card" />
   </a>
@@ -47,10 +53,11 @@
 ## 🔗 Links
 
 <p>
+  <a href="https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5">Codex-5.5</a>
+  ·
   <a href="https://github.com/yynxxxxx/Codex-X">Codex-X</a>
   ·
   <a href="https://github.com/yynxxxxx/Codex-X/releases">Releases</a>
   ·
   <a href="https://github.com/yynxxxxx/Codex-X/issues">Feedback</a>
 </p>
-
