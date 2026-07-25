@@ -6,8 +6,8 @@
 
 ### 🧑‍💻 About Me
 
-- Wuhan-based second-year graduate student
-- Keep learning, record the journey
+- 武汉在读研二
+- 持续学习，记录足迹
 
 ### Tech Stack
 
