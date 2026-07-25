@@ -32,11 +32,21 @@
 
 ### GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yynxxxxx&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yynxxxxx&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yynxxxxx&theme=github-compact&hide_border=true&height=260" alt="GitHub activity graph" />
-</p>
+  <p>
+    <img src="https://img.shields.io/badge/⭐%20Stars-3.8k-yellow?style=for-the-badge" alt="Stars" />
+    <img src="https://img.shields.io/badge/📦%20Repos-5-blue?style=for-the-badge" alt="Repos" />
+    <img src="https://img.shields.io/badge/📝%20Commits-170-green?style=for-the-badge" alt="Commits" />
+    <img src="https://img.shields.io/badge/🍴%20Forks-778-orange?style=for-the-badge" alt="Forks" />
+  </p>
+
+  <br />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yynxxxxx/yynxxxxx/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yynxxxxx/yynxxxxx/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/yynxxxxx/yynxxxxx/output/github-contribution-grid-snake.svg" />
+  </picture>
+
+</div>
