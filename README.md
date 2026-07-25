@@ -1,17 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&center=true&vCenter=true&width=620&lines=%F0%9F%9A%80+Hello+World+!!!;Hi%2C+I'm+yynxxxxx;Building+Codex+tools+and+AI+workflows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&center=true&vCenter=true&width=620&lines=%F0%9F%9A%80+Hello+World+!!!;Hi%2C+I'm+yynxxxxx;%E5%AE%81%E5%A5%BD%EF%BC%8C%E6%AC%A2%E8%BF%8E%E8%B8%8F%E5%85%A5%E6%88%91%E7%9A%84%E5%AE%87%E5%AE%99%EF%BC%8C%E5%B9%B8%E4%BC%9A%F0%9F%92%97" alt="Typing SVG" />
 </p>
 
 ### Hi, 我是 yynxxxxx
 
-我喜欢做 Codex / AI Agent 相关工具，把复杂配置、提示词、供应商、MCP、Skills 和会话工作流做成更顺手的可视化体验。
-
 ### 🧑‍💻 About Me
 
-- 🛠️ 技能专长：智能体开发、JS 逆向、iOS 逆向、安卓逆向
-- 📦 正在开发：Codex-X、Codex 提示词工作流与 AI Agent 工具
-- 🌱 立志深耕智能体，持续学习与分享
-- 🌏 喜欢健身、游泳、跑步
+- Wuhan-based second-year graduate student
+- Keep learning, record the journey
 
 ### Tech Stack
 
