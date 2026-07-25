@@ -26,12 +26,12 @@
 
 ### Top Repositories
 
-| Repository | About | Stars |
-| --- | --- | ---: |
-| [Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5) | Codex instruction and prompt workflow project. | 2,018 |
-| [Codex-X](https://github.com/yynxxxxx/Codex-X) | Codex desktop manager for prompts, providers, sessions, Skills, MCP and skins. | 1,633 |
-| [GPTSession2CPAandSub2API](https://github.com/yynxxxxx/GPTSession2CPAandSub2API) | Convert ChatGPT Web session JSON for CPA, sub2api, Cockpit Tools and 9router. | 120 |
-| [Google_Manager](https://github.com/yynxxxxx/Google_Manager) | Google account asset management system. | 110 |
+| Repository | About |
+| --- | --- |
+| [Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5) | Codex instruction and prompt workflow project. |
+| [Codex-X](https://github.com/yynxxxxx/Codex-X) | Codex desktop manager for prompts, providers, sessions, Skills, MCP and skins. |
+| [GPTSession2CPAandSub2API](https://github.com/yynxxxxx/GPTSession2CPAandSub2API) | Convert ChatGPT Web session JSON for CPA, sub2api, Cockpit Tools and 9router. |
+| [Google_Manager](https://github.com/yynxxxxx/Google_Manager) | Google account asset management system. |
 
 ### GitHub Stats
 
