@@ -35,10 +35,17 @@
 
 ### GitHub Stats
 
+<p align="center">
+  <a href="https://github.com/yynxxxxx?tab=repositories">
+    <img src="https://img.shields.io/badge/TOTAL%20GITHUB%20STARS-5.2K-FFD700?style=for-the-badge&labelColor=111827&logo=github&logoColor=white" alt="5.2K total GitHub stars" height="64" />
+  </a>
+</p>
+
+<p align="center"><strong>5K+ stars across my public projects</strong></p>
+
 <div align="center">
 
   <p>
-    <img src="https://img.shields.io/badge/⭐%20Stars-5.2k-yellow?style=for-the-badge" alt="Stars" />
     <img src="https://img.shields.io/badge/📦%20Repos-5-blue?style=for-the-badge" alt="Repos" />
     <img src="https://img.shields.io/badge/📝%20Commits-205-green?style=for-the-badge" alt="Commits" />
     <img src="https://img.shields.io/badge/🍴%20Forks-973-orange?style=for-the-badge" alt="Forks" />
