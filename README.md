@@ -40,7 +40,7 @@
   <p>
     <img src="https://img.shields.io/badge/⭐%20Stars-5.2k-yellow?style=for-the-badge" alt="Stars" />
     <img src="https://img.shields.io/badge/📦%20Repos-5-blue?style=for-the-badge" alt="Repos" />
-    <img src="https://img.shields.io/badge/📝%20Commits-170-green?style=for-the-badge" alt="Commits" />
+    <img src="https://img.shields.io/badge/📝%20Commits-205-green?style=for-the-badge" alt="Commits" />
     <img src="https://img.shields.io/badge/🍴%20Forks-973-orange?style=for-the-badge" alt="Forks" />
   </p>
 
