@@ -8,11 +8,11 @@
 
 <p align="center">
   <a href="https://github.com/yynxxxxx?tab=repositories">
-    <img src="https://img.shields.io/badge/TOTAL%20GITHUB%20STARS-5.2K-FFD700?style=for-the-badge&labelColor=111827&logo=github&logoColor=white" alt="5.2K total GitHub stars" height="64" />
+    <img src="https://img.shields.io/badge/TOTAL%20GITHUB%20STARS-5%2C591-FFD700?style=for-the-badge&labelColor=111827&logo=github&logoColor=white" alt="5,591 total GitHub stars" height="64" />
   </a>
 </p>
 
-<p align="center"><strong>5K+ stars across my public projects</strong></p>
+<p align="center"><strong>5,591 stars across my public projects</strong></p>
 
 <div align="center">
 
