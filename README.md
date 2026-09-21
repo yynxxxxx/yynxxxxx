@@ -12,7 +12,6 @@
   </a>
 </p>
 
-<p align="center"><strong>5,591 stars across my public projects</strong></p>
 
 <div align="center">
 
