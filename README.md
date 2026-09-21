@@ -6,22 +6,8 @@
 
 ### GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/yynxxxxx?tab=repositories">
-    <img src="https://img.shields.io/badge/TOTAL%20GITHUB%20STARS-5%2C591-FFD700?style=for-the-badge&labelColor=111827&logo=github&logoColor=white" alt="5,591 total GitHub stars" height="64" />
-  </a>
-</p>
-
 
 <div align="center">
-
-  <p>
-    <img src="https://img.shields.io/badge/📦%20Repos-5-blue?style=for-the-badge" alt="Repos" />
-    <img src="https://img.shields.io/badge/📝%20Commits-205-green?style=for-the-badge" alt="Commits" />
-    <img src="https://img.shields.io/badge/🍴%20Forks-973-orange?style=for-the-badge" alt="Forks" />
-  </p>
-
-  <br />
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yynxxxxx/yynxxxxx/output/github-contribution-grid-snake-dark.svg" />
